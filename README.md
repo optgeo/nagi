@@ -3,6 +3,9 @@ A map style from nagix/hakone-ekiden by [Charites](https://github.com/unvt/chari
 
 ![social preview image](https://repository-images.githubusercontent.com/450753021/8e067371-b442-4301-8267-454db1d22e9f)
 
+# Source style
+https://nagix.github.io/hakone-ekiden/style.json
+
 # Attribution
 [nagix/hakone-ekiden](https://github.com/nagix/hakone-ekiden) (Copyright (c) 2021-2022 Akihiko Kusanagi) is released under MIT License.
 
