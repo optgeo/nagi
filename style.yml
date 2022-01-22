@@ -64,7 +64,7 @@ layers:
   - !!inc/file layers/road-label-outdoors.yml
   - !!inc/file layers/road-intersection.yml
   - !!inc/file layers/path-pedestrian-label.yml
-  - !!inc/file layers/waterway-label.yml
+#  - !!inc/file layers/waterway-label.yml
   - !!inc/file layers/natural-line-label.yml
   - !!inc/file layers/natural-point-label.yml
   - !!inc/file layers/water-line-label.yml
